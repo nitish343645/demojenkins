@@ -1,0 +1,196 @@
+Received: from MA0PR01MB6793.INDPRD01.PROD.OUTLOOK.COM (2603:1096:a01:5e::6)
+ by PN2PR01MB9861.INDPRD01.PROD.OUTLOOK.COM with HTTPS; Thu, 11 Sep 2025
+ 08:54:34 +0000
+Received: from PN0PR01MB10054.INDPRD01.PROD.OUTLOOK.COM
+ (2603:1096:c01:1ea::11) by MA0PR01MB6793.INDPRD01.PROD.OUTLOOK.COM
+ (2603:1096:a01:5e::6) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9094.22; Thu, 11 Sep
+ 2025 08:54:33 +0000
+Received: from PN0PR01MB10054.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::9eef:f8d4:fa10:4d10]) by PN0PR01MB10054.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::9eef:f8d4:fa10:4d10%3]) with mapi id 15.20.9094.021; Thu, 11 Sep 2025
+ 08:54:33 +0000
+From: Neeraj Kumar Roy <neeraj.kumar@karix.com>
+To: Sreenidhi Chillarigi <Sreenidhi.Chillarigi@karix.com>, Gregory Joseph M
+	<gjoseph@karix.com>
+CC: Urvashi Sharma <urvashi.sharma@karix.com>, Uma Singh <usingh@karix.com>,
+	Venkatesh Sethuramalingam <svenkateshwara@karix.com>
+Subject: RE: Resignation letter
+Thread-Topic: Resignation letter
+Thread-Index: AQHcIJWSB37H2XtCUk6zhyJiWv6yTrSNsY4Q
+Date: Thu, 11 Sep 2025 08:54:33 +0000
+Message-ID:
+	<PN0PR01MB100547A93292D826261C451BD8509A@PN0PR01MB10054.INDPRD01.PROD.OUTLOOK.COM>
+References:
+	<PN2PR01MB9861D3718C1F08B34743506F870CA@PN2PR01MB9861.INDPRD01.PROD.OUTLOOK.COM>
+In-Reply-To:
+	<PN2PR01MB9861D3718C1F08B34743506F870CA@PN2PR01MB9861.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource:
+	PN0PR01MB10054.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	d8d77eb5-488b-453e-82ba-08ddf110d3c2
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+x-ms-publictraffictype: Email
+authentication-results: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=karix.com;
+x-ms-office365-filtering-correlation-id: d8d77eb5-488b-453e-82ba-08ddf110d3c2
+x-ms-traffictypediagnostic:
+	PN0PR01MB10054:EE_|MA0PR01MB6793:EE_|PN2PR01MB9861:EE_
+x-ms-exchange-transport-crosstenantheadersstamped: MA0PR01MB6793
+x-microsoft-antispam:
+	BCL:0;ARA:13230040|366016|7053199007|8096899003|41050700001;
+x-forefront-antispam-report:
+	CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:PN0PR01MB10054.INDPRD01.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(366016)(7053199007)(8096899003)(41050700001);DIR:INT;
+x-ms-exchange-crosstenant-originalarrivaltime: 11 Sep 2025 08:54:33.0881 (UTC)
+x-ms-exchange-crosstenant-network-message-id:
+	d8d77eb5-488b-453e-82ba-08ddf110d3c2
+x-ms-exchange-crosstenant-id: ab758891-bfde-44ba-8f4d-49ed229d9156
+x-ms-exchange-crosstenant-authsource: PN0PR01MB10054.INDPRD01.PROD.OUTLOOK.COM
+x-ms-exchange-crosstenant-authas: Internal
+x-ms-exchange-crosstenant-fromentityheader: Hosted
+x-ms-exchange-transport-endtoendlatency: 00:00:01.3611008
+x-ms-exchange-processed-by-bccfoldering: 15.20.9094.017
+x-ms-exchange-crosstenant-mailboxtype: HOSTED
+x-ms-exchange-crosstenant-userprincipalname:
+	zQiNNyiwzshEZ0pGBXaBlj+QJJzWbrT3Qmgp68e11/aPs2qxuhwAg3CxR+f6BdwGFPrpPWm1sE+srYQqaoG5bQ==
+x-ms-exchange-atpmessageproperties: SA|SL
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(425001)(930097)(140003)(1420198);
+X-Microsoft-Antispam-Message-Info:
+	howDrbKKzcN/+ssO/hzAsss8/nS0r3cGFhnlRpG+Tng6su+df+4aPoVbJf+QYanUwy4o0GBrMLKvaJmEfZsvcq966LtV8sieRqx4zC/p1BMqS++EPmlr07+gng9oprwmVzy7zXu/mmbQAw4Z4KEwaLgRkhFFuGY1v/wdsHyBgaFqMpWXBmOdXtDHydLpIALqxtph/hemtI9f8E6UBuSqZviSsivMPIvvEwFdSIzKyjHyCMmsgs1NUx65KfUKUnvFQqKCDY66RcPBIKk32+x/gcsWJZjMqmw58fSRVavpcwpisSAXgYcfE4WouCRbRwJxezRWXafaDVlXr7F+uUkkHTczqJMpLrz4yQczz9rnOgr4ecnOzEMydwEARe43bxGd/GoI375DHw2FXKtqplXOGZODeLP8p6sOU+tVE5qc3L4NFjoanc+DI6QzvaXbulB9trKqimcUzpqvSFtDxN8UhfX2Mwai64Vs9B0CF7cUlesrV/4gDvz7qeEwmUOojyiTgOLQC2EXPw/G4PaJfyxGOPdQry6qeF6JjcsVuz/ZO9ccPM2Y3STr9JyRM06qfYOwvFshZ3Qb5IXSupLzA1WLAdFCBJ2yZLzVDtzXRoodd2kEa5Q24Z4O5ENwCg2Egqe4nLrQuGxlOfNfnkEA7deC0pwWqI2OhleM1+eqEDiBzxCMJNYDiuW7mFEIMJ2bFp9uSH64lfit3y5EGFEcEf3K/0lnN84bVCHx3opzoi3ZlLFluth60SqogZffdXET0UrfbtM6XTk/SRtbrDM2Oe+qmzn5HVyBw5rConSmoCSaots=
+Content-Type: multipart/alternative;
+	boundary="_000_PN0PR01MB100547A93292D826261C451BD8509APN0PR01MB10054IN_"
+MIME-Version: 1.0
+
+--_000_PN0PR01MB100547A93292D826261C451BD8509APN0PR01MB10054IN_
+Content-Type: text/plain; charset="us-ascii"
+
+Hi Sreenidhi,
+
+As discussed, resignation is accepted, and your last working day will 30th sept 2025.
+
+If you need any clarification or info, reach out to Me or Urvashi directly.
+
+Best Regards
+
+Neeraj Kumar Roy
+
+From: Sreenidhi Chillarigi <Sreenidhi.Chillarigi@karix.com>
+Sent: 08 September 2025 16:01
+To: Gregory Joseph M <gjoseph@karix.com>; Neeraj Kumar Roy <neeraj.kumar@karix.com>
+Cc: Urvashi Sharma <urvashi.sharma@karix.com>; Uma Singh <usingh@karix.com>
+Subject: Resignation letter
+
+Dear @Gregory Joseph M<mailto:gjoseph@karix.com> ,
+
+I am writing to formally resign from my position as System engineer- at Tanla platforms , effective from 08-09-2025
+
+This decision was not an easy one, but after careful consideration, I believe it is the right step for my personal and professional growth. I want to express my sincere gratitude for the opportunities I have had during my time here. I have learned a great deal and appreciate the support and encouragement you and the team have provided.
+
+Please let me know how I can assist in the transition process. I am happy to help train my replacement or ensure a smooth handover of my responsibilities.
+
+Thank you again for the opportunity to be a part of Tanla platforms . I look forward to staying in touch, and I wish you and the team continued success in the future.
+
+Best Regards,
+Sreenidhi
+
+
+--_000_PN0PR01MB100547A93292D826261C451BD8509APN0PR01MB10054IN_
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+@font-face
+	{font-family:"Aptos Display";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-IN" link="blue" vlink="purple" style="word-wrap:break-word">
+<div class="WordSection1">
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US">Hi Sreenidhi,<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US">As discussed, resignation is accepted, and your last working day will 30<sup>th</sup> sept 2025.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US">If you need any clarification or info, reach out to Me or Urvashi directly.<o:p></o:p></span></p>
+<div>
+<p class="MsoNormal"><span lang="EN-GB" style="mso-ligatures:standardcontextual"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN-GB" style="font-family:&quot;Aptos Display&quot;,sans-serif;color:#747474;mso-ligatures:standardcontextual">Best Regards<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="EN-GB" style="font-family:&quot;Aptos Display&quot;,sans-serif;color:#747474;mso-ligatures:standardcontextual"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN-GB" style="font-family:&quot;Aptos Display&quot;,sans-serif;color:#747474;mso-ligatures:standardcontextual">Neeraj Kumar Roy<o:p></o:p></span></p>
+</div>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style="border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span lang="EN-US" style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">From:</span></b><span lang="EN-US" style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"> Sreenidhi Chillarigi &lt;Sreenidhi.Chillarigi@karix.com&gt;
+<br>
+<b>Sent:</b> 08 September 2025 16:01<br>
+<b>To:</b> Gregory Joseph M &lt;gjoseph@karix.com&gt;; Neeraj Kumar Roy &lt;neeraj.kumar@karix.com&gt;<br>
+<b>Cc:</b> Urvashi Sharma &lt;urvashi.sharma@karix.com&gt;; Uma Singh &lt;usingh@karix.com&gt;<br>
+<b>Subject:</b> Resignation letter<o:p></o:p></span></p>
+</div>
+</div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="background:white"><span style="color:black">Dear <a id="OWAAM913868" href="mailto:gjoseph@karix.com">
+<span style="font-family:&quot;Aptos&quot;,sans-serif;text-decoration:none">@Gregory Joseph M</span></a>&nbsp;,<o:p></o:p></span></p>
+<p class="MsoNormal" style="background:white"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="background:white"><span style="color:black">I am writing to formally resign from my position as System engineer- at Tanla platforms , effective from 08-09-2025<o:p></o:p></span></p>
+<p class="MsoNormal" style="background:white"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="background:white"><span style="color:black">This decision was not an easy one, but after careful consideration, I believe it is the right step for my personal and professional growth. I want to express my sincere gratitude for the
+ opportunities I have had during my time here. I have learned a great deal and appreciate the support and encouragement you and the team have provided.<o:p></o:p></span></p>
+<p class="MsoNormal" style="background:white"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="background:white"><span style="color:black">Please let me know how I can assist in the transition process. I am happy to help train my replacement or ensure a smooth handover of my responsibilities.<o:p></o:p></span></p>
+<p class="MsoNormal" style="background:white"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="background:white"><span style="color:black">Thank you again for the opportunity to be a part of Tanla platforms . I look forward to staying in touch, and I wish you and the team continued success in the future.<o:p></o:p></span></p>
+<p class="MsoNormal" style="background:white"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="background:white"><span style="color:black">Best Regards,<o:p></o:p></span></p>
+<p class="MsoNormal" style="background:white"><span style="color:black">Sreenidhi<o:p></o:p></span></p>
+<div>
+<p class="MsoNormal"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+</div>
+</body>
+</html>
+
+--_000_PN0PR01MB100547A93292D826261C451BD8509APN0PR01MB10054IN_--
