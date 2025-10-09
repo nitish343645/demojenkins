@@ -1,0 +1,54 @@
+apiVersion: keda.sh/v1alpha1
+kind: ScaledObject
+metadata:
+  creationTimestamp: "2025-09-12T15:56:42Z"
+  finalizers:
+  - finalizer.keda.sh
+  generation: 1
+  labels:
+    scaledobject.keda.sh/name: rcm-dispatcher-97333730185-waba-ins-scale
+  name: rcm-dispatcher-97333730185-waba-ins-scale
+  namespace: rcm-aws
+  resourceVersion: "316011100"
+  uid: d3d08402-08bb-41f9-a9c7-f356beb53e38
+spec:
+  cooldownPeriod: 120
+  maxReplicaCount: 1
+  minReplicaCount: 0
+  pollingInterval: 30
+  scaleTargetRef:
+    name: rcm-dispatcher-97333730185-waba-ins
+  triggers:
+  - authenticationRef:
+      name: keda-prom-creds
+    metadata:
+      authModes: basic
+      metricName: rabbitmq_queue_messages
+      query: sum(rabbitmq_queue_messages{queue=~".*97333730185.*"}) or on() vector(0)
+      serverAddress: http://172.20.0.19:7060
+      threshold: "1"
+    type: prometheus
+status:
+  conditions:
+  - message: ScaledObject is defined correctly and is ready for scaling
+    reason: ScaledObjectReady
+    status: "True"
+    type: Ready
+  - message: Scaling is not performed because triggers are not active
+    reason: ScalerNotActive
+    status: "False"
+    type: Active
+  - status: Unknown
+    type: Fallback
+  - status: Unknown
+    type: Paused
+  externalMetricNames:
+  - s0-prometheus
+  hpaName: keda-hpa-rcm-dispatcher-97333730185-waba-ins-scale
+  originalReplicaCount: 0
+  scaleTargetGVKR:
+    group: apps
+    kind: Deployment
+    resource: deployments
+    version: v1
+  scaleTargetKind: apps/v1.Deployment
